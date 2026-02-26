@@ -10,9 +10,9 @@ public class Program {
         Scanner sc = new Scanner(System.in);
 
         // CRIANDO OBJETOS
-        Triangle x, y;
-        x = new Triangle();
-        y = new Triangle();
+
+        Triangle x = new Triangle();
+        Triangle y = new Triangle();
 
         System.out.println("Enter the measures of the triangle:");
          x.a = sc.nextDouble();
