@@ -14,7 +14,7 @@ public class Program {
         Triangle x = new Triangle();
         Triangle y = new Triangle();
 
-        System.out.println("Enter the measures of the triangle:");
+        System.out.println("Enter the measures of the triangle: ");
          x.a = sc.nextDouble();
          x.b = sc.nextDouble();
          x.c = sc.nextDouble();
