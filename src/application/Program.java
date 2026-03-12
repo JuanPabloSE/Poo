@@ -11,7 +11,7 @@ public class Program {
 
         // CRIANDO OBJETOS
 
-        Triangle x = new Triangle();
+        Triangle x = new Triangle(); // (new Triangle - Instanciando o OBJETO)
         Triangle y = new Triangle();
 
         System.out.println("Enter the measures of the triangle: ");
